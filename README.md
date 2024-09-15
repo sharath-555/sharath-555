@@ -1,4 +1,4 @@
-<img src="https://github.com/sharath-555/sharath-555/blob/main/Poster_test.gif" alt="Master Poster" width="900" height="500" >
+<img src="https://github.com/sharath-555/sharath-555/blob/main/Poster_test.gif" alt="Master Poster" width="700" height="300" >
 <h1 align="center">Hi 👋, I'm Sharath kumar Athineni</h1>
 <h3 align="center">Passionate Data Analyst Dedicated to Uncovering Insights and Driving Business Success</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/a16f98206c5cc417104dec4a81199f79ac7066b80cf01fbfc2cd2fae44843f59/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f646174612d736369656e63652d322e676966">
